@@ -12,6 +12,6 @@
 
 [Tendermint](https://tendermint.com/static/docs/tendermint.pdf)
 
-##Decentralization
+## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
