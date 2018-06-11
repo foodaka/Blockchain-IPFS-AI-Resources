@@ -15,3 +15,11 @@
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+
+
+## Tokens
+[Understanting Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity/)
+
+[More on Tokens](https://investmentbank.com/token-velocity/)
+
+[Vitalik on Tokens](https://vitalik.ca/general/2017/10/17/moe.html)
