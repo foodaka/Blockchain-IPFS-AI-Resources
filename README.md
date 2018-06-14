@@ -12,6 +12,10 @@
 
 [Tendermint](https://tendermint.com/static/docs/tendermint.pdf)
 
+[Ethereum Book](git@github.com:foodaka/Blockchain-IPFS-AI-Resources.git)
+
+[Journey to Web3 - Dr Gaven Wood](https://www.youtube.com/watch?v=lH1pEE0W3ug&t=1477s)
+
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
