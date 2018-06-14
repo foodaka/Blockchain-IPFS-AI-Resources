@@ -12,7 +12,7 @@
 
 [Tendermint](https://tendermint.com/static/docs/tendermint.pdf)
 
-[Ethereum Book](git@github.com:foodaka/Blockchain-IPFS-AI-Resources.git)
+[Ethereum Book](https://github.com/ethereumbook/ethereumbook)
 
 [Journey to Web3 - Dr Gaven Wood](https://www.youtube.com/watch?v=lH1pEE0W3ug&t=1477s)
 
