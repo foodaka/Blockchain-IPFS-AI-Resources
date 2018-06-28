@@ -16,7 +16,7 @@
 
 [Journey to Web3 - Dr Gaven Wood](https://www.youtube.com/watch?v=lH1pEE0W3ug&t=1477s)
 
-[Ecominc limits of Bitcoin and the Blockchain](http://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)
+[Economic limits of Bitcoin and the Blockchain](http://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)
 
 ## Decentralization
 
