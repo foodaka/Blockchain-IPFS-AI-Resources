@@ -19,6 +19,9 @@
 [Economic limits of Bitcoin and the Blockchain](http://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)
 
 [Consensys-Academy-Notes](https://github.com/ScottWorks/ConsenSys-Academy-Notes)
+
+[Understanding the Ethereum Blockchain Protocol-Vitalik Buterin](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=887s)
+
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
