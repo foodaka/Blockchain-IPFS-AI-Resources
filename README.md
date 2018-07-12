@@ -20,7 +20,7 @@
 
 [Consensys-Academy-Notes](https://github.com/ScottWorks/ConsenSys-Academy-Notes)
 
-[Understanding the Ethereum Blockchain Protocol-Vitalik Buterin](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=887s)
+[Understanding the Ethereum Blockchain Protocol-Vitalik Buterin](https://www.youtube.com/watch?v=mCzyDLanA7s)
 
 ## Decentralization
 
