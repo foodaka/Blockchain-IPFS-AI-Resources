@@ -2,7 +2,7 @@
 
 ## Blockchain, Scalability, Consensus, Ethereum
 
-[Proof of stake](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ )
+[Proof of stake](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
 
 [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 
