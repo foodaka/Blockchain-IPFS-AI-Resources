@@ -27,3 +27,13 @@
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+
+
+
+## AI, Machine Learning & Data Science
+
+[Why Machine Learning Matters](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+
+[Guide Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+
+[Machine Learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
