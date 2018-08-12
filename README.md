@@ -26,6 +26,8 @@
 
 [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
+[How Bitcoin works under the hook](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
+
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
