@@ -24,6 +24,8 @@
 
 [Understanding the Ethereum Blockchain Protocol-Vitalik Buterin](https://www.youtube.com/watch?v=mCzyDLanA7s)
 
+[The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
