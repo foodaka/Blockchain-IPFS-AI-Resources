@@ -28,6 +28,8 @@
 
 [How Bitcoin works under the hook](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
 
+[What's a Merkle Tree](https://komodoplatform.com/whats-merkle-tree/)
+
 ## Decentralization
 
 [Decentralization By Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
