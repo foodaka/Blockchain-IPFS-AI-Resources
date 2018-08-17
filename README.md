@@ -6,8 +6,6 @@
 
 [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 
-------
-
 ## Plasma Cash & Plasma Cash Root contract examples-
 
 [Plasma Cash](https://ethresear.ch/t/plasma-cash-with-sparse-merkle-trees-bloom-filters-and-probabilistic-transfers/2006)
