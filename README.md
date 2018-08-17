@@ -6,6 +6,14 @@
 
 [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 
+##Plasma Cash & Plasma Cash Root contract examples
+[Plasma Cash](https://ethresear.ch/t/plasma-cash-with-sparse-merkle-trees-bloom-filters-and-probabilistic-transfers/2006)
+
+Plasma Cash Root Contract examples --
+[Omisego Plasma-MVP](https://github.com/omisego/plasma-mvp)
+[Ethereum-Plasma Simple Implemnation](https://github.com/ethereum-plasma/plasma)
+[BNKEX PlasmaParentContract](https://github.com/BANKEX/PlasmaParentContract)
+
 [Why blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
 
 [Challenges with Public Blockchains](https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-253c800e9428)
