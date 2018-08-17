@@ -8,11 +8,9 @@
 
 ------
 
-## Plasma Cash & Plasma Cash Root contract examples
+## Plasma Cash & Plasma Cash Root contract examples-
 
 [Plasma Cash](https://ethresear.ch/t/plasma-cash-with-sparse-merkle-trees-bloom-filters-and-probabilistic-transfers/2006)
-
-Plasma Cash Root Contract examples --
 
 [Omisego Plasma-MVP](https://github.com/omisego/plasma-mvp)
 
