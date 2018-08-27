@@ -55,3 +55,5 @@
 [Guide Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
 
 [Machine Learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+[Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
